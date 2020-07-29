@@ -1,0 +1,18 @@
+h1.title {
+    display: block;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 50px;
+    padding: 10px;
+}
+
+.jumbotron {
+    width: 100%;
+    background-color: skyblue;
+}
+
+.feed {
+    width: 100%;
+    background-image: "https://bashooka.com/wp-content/uploads/2018/04/scg-canvas-background-animation-19.jpg";
+}
+
